@@ -1,8 +1,8 @@
-# CodeAlpha Hangman Game
+# Hangman Game
 
 ## Description
 
-A simple text-based Hangman Game developed in Python using PyCharm IDE as part of the CodeAlpha Python Programming Internship.
+A simple text-based Hangman Game developed in Python using PyCharm IDE.
 
 ## Features
 
